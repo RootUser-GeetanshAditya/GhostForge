@@ -2,8 +2,11 @@
 
 GhostForge is a customizable payload generation and shellcode obfuscation tool designed for red team research, adversary simulation, and malware evasion analysis. It generates XOR+Base64 encoded shellcode loaders in C, compiles them with `mingw-w64`, and optionally signs them with a fake certificate to improve delivery success.
 
+### Here is an image from virustotal of how the GhostForge is able to perform
+
 ![Alt text](images/virustotal.png)
 
+### VirusTotal Hash = 4c766532b86772cdb9a36c34c93676609145242e042fdfe423d5ccdb05c509c9
 
 > **⚠️ DISCLAIMER:** This project is intended for **educational and research purposes only**. Do **not** use this tool against systems you do not own or have explicit permission to test. Misuse can be **illegal** and unethical.
 
