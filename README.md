@@ -40,7 +40,7 @@ GhostForge is a customizable payload generation and shellcode obfuscation tool d
 sudo pacman -S metasploit osslsigncode
 
 # Python module
-pip install lief
+pip install lief==0.16.3
 
 # Cross compiler
 paru -S mingw-w64-gcc
